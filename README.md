@@ -1,1 +1,1 @@
-# MelanomaDetection-Using-DNN
+# Melanoma_Detection_Using_DNN
